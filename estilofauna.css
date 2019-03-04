@@ -1,0 +1,110 @@
+.imagenes {
+	margin: 0;
+	width: 60%;
+	display: block;
+	position: relative;
+	padding: 0;
+	margin-left: 0.1%;
+}
+
+.foto1 {
+	z-index: 229;
+	position: absolute;
+	left: 0px;
+	top: 0;
+}
+
+.foto2 {
+	z-index: 227;
+	position: absolute;
+	left: 375px;
+	top: 0;
+}
+
+.foto3 {
+	z-index: 225;
+	position: absolute;
+	left: 750px;
+	top: 0;
+}
+
+.foto4 {
+	z-index: 223;
+	position: absolute;
+	left: 1125px;
+	top: 0;
+}
+.foto5 {
+	z-index: 221;
+	position: absolute;
+	left: 0px;
+	top: 250px;
+}
+
+.foto6 {
+	z-index: 219;
+	position: absolute;
+	left: 375px;
+	top: 210px;
+}
+
+.foto7 {
+	z-index: 217;
+	position: absolute;
+	left: 750px;
+	top: 248px;
+}
+
+.foto8 {
+	z-index: 215;
+	position: absolute;
+	left: 1125px;
+	top: 225px;
+}
+.foto9 {
+	z-index: 213;
+	position: absolute;
+	left: 0px;
+	top: 530px;
+}
+.foto10 {
+	z-index: 211;
+	position: absolute;
+	left: 375px;
+	top: 396px;
+}
+
+.foto11 {
+	z-index: 209;
+	position: absolute;
+	left: 750px;
+	top: 495px;
+}
+
+.foto12 {
+	z-index: 207;
+	position: absolute;
+	left: 1125px;
+	top: 472px;
+}
+.foto13 {
+	z-index: 205;
+	position: absolute;
+	left: 0px;
+	top: 810px;
+}
+.foto14 {
+	z-index: 203;
+	position: absolute;
+	left: 375px;
+	top: 760px;
+}
+
+.foto15 {
+	z-index: 201;
+	position: absolute;
+	left: 750px;
+	top: 700px;
+}
+
+

@@ -1,0 +1,19 @@
+.img {
+	float: left;
+	position: relative;
+	top: 0%;
+	left: 0%;
+	width: 10%;
+}
+
+.parrafo1 {
+	color: white;
+	float: right;
+	font-family: sans-serif;
+	text-align: left;
+	margin-left: 0%;
+	position: relative;
+	top: 0%;
+	width: 70%;
+	margin-top: 10%;
+}
